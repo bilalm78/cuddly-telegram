@@ -4,7 +4,7 @@ le soleil est brillant
 
 ![Image du soleil](soleil.jpg)
 
-trouvée sur [wikipedia]((https://commons.wikimedia.org/wiki/File:Solar_prominence_from_STEREO_spacecraft_September_29,_2008.jpg?uselang=fr).
+trouvée sur [wikipedia](https://commons.wikimedia.org/wiki/File:Solar_prominence_from_STEREO_spacecraft_September_29,_2008.jpg?uselang=fr).
 
 ## Caractéristiques
 
